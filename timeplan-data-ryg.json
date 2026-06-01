@@ -1,5 +1,5 @@
 {
-  "theme": "miku",
+  "theme": "light",
   "groups": [
     {
       "id": "general",
@@ -93,6 +93,9 @@
     }
   ],
   "showOnlyEvents": false,
-  "selectedGroups": [],
+  "selectedGroups": [
+    "general",
+    "g_1780237879835"
+  ],
   "displayYears": 5
 }
