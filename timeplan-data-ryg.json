@@ -92,7 +92,7 @@
       "priority": 1
     }
   ],
-  "showOnlyEvents": true,
+  "showOnlyEvents": false,
   "selectedGroups": [],
   "displayYears": 5
 }
