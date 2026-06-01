@@ -1,1 +1,111 @@
-{"theme":"light","groups":[{"id":"general","name":"Umum"},{"id":"g_1780237879835","name":"Karir"}],"items":[{"id":1,"name":"Peluncuran PolicyPal AI","date":"2026-07-20","desc":"Tahap rilis awal aplikasi.","color":"#e74c3c","groupId":"general"},{"id":2,"name":"Lulus S1 Bisnis Digital UNPAD","date":"2028-08-15","desc":"Mendapatkan gelar sarjana.","color":"#3498db","groupId":"general"},{"id":3,"name":"Mulai Karir Data Analyst","date":"2028-10-01","desc":"Bergabung dengan perusahaan impian.","color":"#2ecc71","groupId":"general"},{"id":1780225039316,"name":"Second","date":"2026-01-01 06:00","endDate":"2026-05-01 10:00","desc":"Diam","color":"#db334c","groupId":"general","priority":2},{"id":1780235436986,"name":"Lulus S1","date":"2026-01-01 12:00","desc":"","color":"#3498db","groupId":"general"},{"id":1780239283890,"name":"drive","date":"2026-01-01 12:00","desc":"","color":"#3498db","groupId":"general"},{"id":1780240398692,"name":"Lomba","date":"2026-01-01 08:00","endDate":"2026-01-01 11:00","desc":"","color":"#33c7db","groupId":"general","priority":1},{"id":1780273921448,"name":"Kino ga","date":"2026-01-01 07:30","endDate":"","desc":"","color":"#95b300","groupId":"general","priority":1},{"id":1780273929337,"name":"Kino ga","date":"2026-01-01 07:30","endDate":"","desc":"","color":"#95b300","groupId":"general","priority":1},{"id":1780297583052,"name":"Zero Bro","date":"2026-10-11 10:00","endDate":"","desc":"","priority":"4","color":"#ffff00","groupId":"general"}],"showOnlyEvents":false,"selectedGroups":["general"],"displayYears":5}
+{
+  "theme": "light",
+  "groups": [
+    {
+      "id": "general",
+      "name": "Umum"
+    },
+    {
+      "id": "g_1780237879835",
+      "name": "Karir"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "name": "Peluncuran PolicyPal AI",
+      "date": "2026-07-20",
+      "desc": "Tahap rilis awal aplikasi.",
+      "color": "#e74c3c",
+      "groupId": "general"
+    },
+    {
+      "id": 2,
+      "name": "Lulus S1 Bisnis Digital UNPAD",
+      "date": "2028-08-15",
+      "desc": "Mendapatkan gelar sarjana.",
+      "color": "#3498db",
+      "groupId": "general"
+    },
+    {
+      "id": 3,
+      "name": "Mulai Karir Data Analyst",
+      "date": "2028-10-01",
+      "desc": "Bergabung dengan perusahaan impian.",
+      "color": "#2ecc71",
+      "groupId": "general"
+    },
+    {
+      "id": 1780225039316,
+      "name": "Second",
+      "date": "2026-01-01 06:00",
+      "endDate": "2026-05-01 10:00",
+      "desc": "Diam",
+      "color": "#db334c",
+      "groupId": "general",
+      "priority": 2
+    },
+    {
+      "id": 1780235436986,
+      "name": "Lulus S1",
+      "date": "2026-01-01 12:00",
+      "desc": "",
+      "color": "#3498db",
+      "groupId": "general"
+    },
+    {
+      "id": 1780239283890,
+      "name": "drive",
+      "date": "2026-01-01 12:00",
+      "desc": "",
+      "color": "#3498db",
+      "groupId": "general"
+    },
+    {
+      "id": 1780240398692,
+      "name": "Lomba",
+      "date": "2026-01-01 08:00",
+      "endDate": "2026-01-01 11:00",
+      "desc": "",
+      "color": "#33c7db",
+      "groupId": "general",
+      "priority": 1
+    },
+    {
+      "id": 1780273921448,
+      "name": "Kino ga",
+      "date": "2026-01-01 07:30",
+      "endDate": "",
+      "desc": "",
+      "color": "#95b300",
+      "groupId": "general",
+      "priority": 1
+    },
+    {
+      "id": 1780273929337,
+      "name": "Kino ga",
+      "date": "2026-01-01 07:30",
+      "endDate": "",
+      "desc": "",
+      "color": "#95b300",
+      "groupId": "general",
+      "priority": 1
+    },
+    {
+      "id": 1780297583052,
+      "name": "Zero Bro",
+      "date": "2026-10-11 10:00",
+      "endDate": "",
+      "desc": "",
+      "priority": "4",
+      "color": "#ffff00",
+      "groupId": "general"
+    }
+  ],
+  "showOnlyEvents": false,
+  "selectedGroups": [
+    "general",
+    "g_1780237879835"
+  ],
+  "displayYears": 5
+}
