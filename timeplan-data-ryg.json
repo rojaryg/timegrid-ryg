@@ -12,14 +12,6 @@
   ],
   "items": [
     {
-      "id": 1,
-      "name": "Peluncuran PolicyPal AI",
-      "date": "2026-07-20",
-      "desc": "Tahap rilis awal aplikasi.",
-      "color": "#e74c3c",
-      "groupId": "general"
-    },
-    {
       "id": 2,
       "name": "Lulus S1 Bisnis Digital UNPAD",
       "date": "2028-08-15",
@@ -33,14 +25,6 @@
       "date": "2028-10-01",
       "desc": "Bergabung dengan perusahaan impian.",
       "color": "#2ecc71",
-      "groupId": "general"
-    },
-    {
-      "id": 1780239283890,
-      "name": "drive",
-      "date": "2026-01-01 12:00",
-      "desc": "",
-      "color": "#3498db",
       "groupId": "general"
     },
     {
