@@ -46,6 +46,16 @@
       "color": "#3498db",
       "groupId": "general",
       "priority": 4
+    },
+    {
+      "id": 1780458675349,
+      "name": "m",
+      "date": "2026-06-03 10:50",
+      "endDate": "",
+      "desc": "",
+      "color": "#3498db",
+      "groupId": "general",
+      "priority": 4
     }
   ],
   "showOnlyEvents": false,
